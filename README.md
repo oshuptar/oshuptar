@@ -1,5 +1,9 @@
-## Hi there 👋
 
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=oshuptar&show_icons=true&theme=radical&hide_border=true)
+
+### 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshuptar&layout=compact&theme=radical&hide_border=true)
 <!--
 **oshuptar/oshuptar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
