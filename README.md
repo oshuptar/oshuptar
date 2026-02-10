@@ -1,6 +1,6 @@
 
 ### Top languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oshuptar&layout=compactlangs_count=6&hide=html,css,scss)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oshuptar&layout=compactlangs_count=8&hide=html,css,scss)
 <!--
 **oshuptar/oshuptar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
