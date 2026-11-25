@@ -1,6 +1,6 @@
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshuptar&layout=compact&langs_count=8&hide=html,css,scss&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshuptar&layout=compact&langs_count=8&hide=html,css,scss,Jupyter%20Notebook&theme=github_dark)
 <!--
 **oshuptar/oshuptar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
